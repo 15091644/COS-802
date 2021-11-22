@@ -1,1 +1,12 @@
+labeled_data.p is the hate speech data taken from https://github.com/t-davidson/hate-speech-and-offensive-language and used throughout this project.
+
+It follows the following schema: 
+
+
+count -	Total number of annotators per tweet
+hate_speech -	Total number of votes for hate speech
+offensive_language - Total number of votes for offensive language
+neither -	Total number of votes for neither
+class -	The class designation for the tweet
+tweet -	The text containing the tweet
 
