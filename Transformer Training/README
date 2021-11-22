@@ -1,0 +1,5 @@
+The notebook contained in this folder represents a generic notebook that can be used to fit any of the transformers considered in this project. 
+
+Code was adapted from Hugging Face: https://huggingface.co/transformers/training.html to fit the various models.
+
+For experimental results please see the training report in the folder.
