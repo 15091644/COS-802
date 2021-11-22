@@ -17,3 +17,5 @@ neither -	Total number of votes for neither
 class -	The class designation for the tweet
 tweet -	The text containing the tweet
 
+DistilBERT trained on the same data is hosted on Hugging Face's Hub here:
+https://huggingface.co/JesseParvess/autonlp-hate_speech_detection-32207676
