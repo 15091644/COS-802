@@ -4,4 +4,4 @@ Code was adapted from Hugging Face: https://huggingface.co/transformers/training
 
 For experimental results please see the training report in the folder.
 
-Each model was fit and test on the same training, validation and test data sets specified in the Train Validation and Test Split folder.
+Each model was fitted and tested on the same training, validation and test data sets specified in the Train Validation and Test Split folder.
