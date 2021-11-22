@@ -1,7 +1,12 @@
+Libraries Required:
+
+1. Transformers: https://huggingface.co/transformers/installation.html
+2. Torch: https://pytorch.org/
+
+
 labeled_data.p is the hate speech data taken from https://github.com/t-davidson/hate-speech-and-offensive-language and used throughout this project.
 
 It follows the following schema: 
-
 
 count -	Total number of annotators per tweet
 hate_speech -	Total number of votes for hate speech
