@@ -3,3 +3,5 @@ The notebook contained in this folder represents a generic notebook that can be 
 Code was adapted from Hugging Face: https://huggingface.co/transformers/training.html to fit the various models.
 
 For experimental results please see the training report in the folder.
+
+Each model was fit and test on the same training, validation and test data sets specified in the Train Validation and Test Split folder.
