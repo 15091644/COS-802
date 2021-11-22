@@ -1,1 +1,2 @@
-The notebook in this folder details the code required to split the data into training, validation and test data sets used in modeling.
+The notebook in this folder details the code required to split the data into training, validation and test data sets used in modeling. 
+The csv's in this folder are the data sets used to train and test each model.
